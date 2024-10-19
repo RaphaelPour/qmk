@@ -1,3 +1,3 @@
 # beginning
 
-![keymap.svg]
+![](keymap.svg)
